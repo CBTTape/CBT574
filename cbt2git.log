@@ -1,0 +1,11 @@
+2023-08-06 05:18:34.503215 - Initialized conversion of CBT574
+2023-08-06 05:18:34.564240 - Received CBT.V505.FILE574.PDS from FILE574.XMI 
+2023-08-06 05:18:34.566624 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE574.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:18:34.567602 - Found @FILE574.txt (text/plain) in CBT.V505.FILE574.PDS, moved to PDS/@FILE574
+2023-08-06 05:18:34.568778 - Found C3270.jcl (text/plain) in CBT.V505.FILE574.PDS, moved to PDS/C3270
+2023-08-06 05:18:34.569789 - Found C3270ASM.jcl (text/plain) in CBT.V505.FILE574.PDS, moved to PDS/C3270ASM
+2023-08-06 05:18:34.569799 - Found C3270DOC.bin containing application/octet-stream, moved to PDS/C3270DOC
+2023-08-06 05:18:34.571801 - Found C3270LNK.jcl (text/plain) in CBT.V505.FILE574.PDS, moved to PDS/C3270LNK
+2023-08-06 05:18:34.572773 - Found C3270LPA.jcl (text/plain) in CBT.V505.FILE574.PDS, moved to PDS/C3270LPA
+2023-08-06 05:18:34.573752 - Found INDXCL.jcl (text/plain) in CBT.V505.FILE574.PDS, moved to PDS/INDXCL
+2023-08-06 05:18:34.574777 - Found INDXCLD.txt (text/plain) in CBT.V505.FILE574.PDS, moved to PDS/INDXCLD
